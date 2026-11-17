@@ -29,6 +29,5 @@ jobs:
       - name: Run Python script and unit tests
         run: |
           python script.py
-          
           python unit.py
 
