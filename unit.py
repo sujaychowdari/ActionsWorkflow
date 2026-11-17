@@ -1,4 +1,4 @@
-a = input("Enter number 1:")
-b= input("Enter number 2:")
+a = 2
+b= 3
 print(a+b)
 
